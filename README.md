@@ -5,11 +5,6 @@
 
  :file_folder:  Business Problem
  
--Facebook recently introduced a new type of bidding, average bidding, as an alternative to the current type of bidding called maximum bidding.
-
--One of our customers, an e-commerce site, has decided to test this new feature and wants to do an A/B test to see if averagebidding converts 
-more than maximumbidding.
- 
  
  :feet: A/B Test Steps
  
