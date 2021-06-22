@@ -1,4 +1,4 @@
-:a: :b: :mag: AB Testing Project
+:a: :b: :mag: A/B Testing Project
 
 ![](https://cdn.ttgtmedia.com/rms/onlineimages/mobile_computing-ab_testing.png)
 
