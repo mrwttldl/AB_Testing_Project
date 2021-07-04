@@ -1,12 +1,12 @@
-:a: :b: :mag:  A / B Testing Project
+ ## :a: :b: :mag:  A / B Testing Project
 
 ![](https://cdn.ttgtmedia.com/rms/onlineimages/mobile_computing-ab_testing.png)
 
 
- :file_folder:  Business Problem
+ ## :file_folder:  Business Problem
  
  
- :feet: A/B Test Steps
+##  :feet: A/B Test Steps
  
 Step 1: set up the hypothesis (write the hypothesis even if you're going to do the test with code)
 
@@ -18,7 +18,7 @@ Step 4: Calculate the P value, interpret the results.
  
  
  
- :white_check_mark:  Dataset Information
+## :white_check_mark:  Dataset Information
 
 Our variables are : 
 
